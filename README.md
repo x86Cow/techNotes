@@ -1,0 +1,2 @@
+# techNotes
+notes for tech
